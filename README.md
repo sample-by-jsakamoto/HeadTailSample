@@ -20,4 +20,4 @@ $ dotnet run
 
 ## License
 
-Unlicense (Public Domain)
+[The Unlicense (Public Domain)](LICENSE)
